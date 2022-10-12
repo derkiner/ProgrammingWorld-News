@@ -10,6 +10,7 @@ FEATURES & METHODS:
 - API: https://www.algolia.com/
 - Search & Remove items from the list
 - Navigate via Previous & Next buttons.
+- Responsive / User-Friendly
 
 ```
 
