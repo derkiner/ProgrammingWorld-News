@@ -7,7 +7,7 @@ FEATURES & METHODS:
 
 - Functional Reusable React Components
 - React Hooks: useEffect, useContext, useReducer
-- API: https://www.algolia.com/
+- API (https://www.algolia.com/)
 - Search & Remove items from the list
 - Navigate via Previous & Next buttons.
 - Responsive / User-Friendly
